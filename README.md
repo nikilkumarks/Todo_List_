@@ -27,7 +27,8 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 ```bash
-git clone 1--https://github.com/nikilkumarks/Todo_List_.git
+git clone
+1--https://github.com/nikilkumarks/Todo_List_.git
 
 2--cd Todo_List_
 3--open index.html
